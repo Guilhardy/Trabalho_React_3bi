@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(0, 0, 0);
+  overflow-x: hidden;
+}
+
+p{
+ color: aliceblue;
+ text-align: center
+}
+
+h1{
+text-align: center;
+}
+
+div{
+  display: block;
+}
+
+img{
+  display: block;
+  margin-left: 25%;
+}
+
+.img_home{
+  padding: 30px;
+}
